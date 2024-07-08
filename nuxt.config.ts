@@ -6,7 +6,7 @@ export default defineNuxtConfig({
 
   // Nuxt Modules
   // https://nuxt.com/modules
-  modules: ['@nuxthub/core', '@nuxt/eslint', "@nuxt/ui"],
+  modules: ['@nuxthub/core',  "@nuxt/ui"],
 
   hub: {
     database: true,
