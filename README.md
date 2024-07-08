@@ -21,8 +21,3 @@ project-root/
 │   └── index.vue
 ├── package.json
 └── nuxt.config.js
-
-Pré-requisitos
-
-    Node.js (v14 ou superior)
-    npm ou yarn
